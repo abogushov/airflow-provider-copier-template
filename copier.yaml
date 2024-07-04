@@ -3,3 +3,7 @@ _subdirectory: template
 name:
   type: str
   help: Provider name
+
+add_sample_hook:
+  type: boolean
+  helm: Add sample hook?
