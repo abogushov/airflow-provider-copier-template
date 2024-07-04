@@ -2,4 +2,4 @@ _subdirectory: template
 
 name:
   type: str
-  help: provider name
+  help: Provider name

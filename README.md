@@ -7,6 +7,6 @@ Airflow provider template bases on [copier](https://copier.readthedocs.io/en/sta
 - [Install copier](https://copier.readthedocs.io/en/stable/#installation)
 - Generate project using command:
     ```shell
-    copier copy git@github.com:abogushov/airflow-provider-copier-template.git airflow-provider
+    copier copy git@github.com:abogushov/airflow-provider-copier-template.git airflow-provider-name
     ```
 - Go throw template questions.
