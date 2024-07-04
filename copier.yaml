@@ -1,4 +1,4 @@
-subdirectory: template
+_subdirectory: template
 
 name:
   type: str
